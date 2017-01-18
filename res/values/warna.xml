@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="latar">#00BFFF</color>
+    <color name="font1">#FFFFFF</color>
+    <color name="merah">#FF0000</color>
+    <color name="hijau">#00FF00</color>
+    
+    <color name="hitam">#000000</color>
+    <color name="twitter">#00BFFF</color>
+    <color name="gold">#FFD700</color>
+    <color name="jingga">#FF1493</color>
+    <color name="biru">#0000FF</color>
+    <color name="birudonker">#00008B</color>
+    <color name="grey">#696969</color>
+    <color name="hijaugelap">#008000</color>
+    <color name="ungu">#800080</color>
+    <color name="krem">#F0E68C</color>
+       
+</resources>
